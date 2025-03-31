@@ -9,3 +9,5 @@ Habituarnos al ciclo de trabajo con Git
 //Sergio Tipo3
 //Diego3
 //Diegol
+
+//Recuperando versiones anteriores
